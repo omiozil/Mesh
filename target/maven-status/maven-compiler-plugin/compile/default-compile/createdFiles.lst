@@ -1,0 +1,6 @@
+com\stock\stockService\serviceImpl\StockService.class
+com\stock\stockService\model\Stock.class
+com\stock\stockService\controller\StockController.class
+com\stock\stockService\serviceImpl\StockServiceImpl.class
+com\stock\stockService\serviceImpl\StockMapper.class
+com\stock\stockService\StockServiceApplication.class
