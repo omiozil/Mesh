@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.stock.stockService.StockServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.824 sec - in com.stock.stockService.StockServiceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.872 sec - in com.stock.stockService.StockServiceApplicationTests
